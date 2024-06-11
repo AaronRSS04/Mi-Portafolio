@@ -1,5 +1,5 @@
-# Descrpción
-Este es mmi portafolio personal que contiene información sobre cómo se pueden ponar en contacto conmigo, así como los diferentes medios donde me puedes encontrar.
+# Descrpción 🧑🏻‍💻
+Este es mi portafolio personal que contiene información sobre cómo se pueden ponar en contacto conmigo, así como los diferentes medios donde me puedes encontrar.
 
 # Autor
 Aarón Rosas
