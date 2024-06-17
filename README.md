@@ -1,4 +1,4 @@
-# Descrpción 🧑🏻‍💻
+# Descripción 🧑🏻‍💻
 Este es mi portafolio personal que contiene información sobre cómo se pueden ponar en contacto conmigo, así como los diferentes medios donde me puedes encontrar.
 
 # Autor
